@@ -1,6 +1,6 @@
 <html>
 <head>
-      <title>Converting Temperatures</title>
+      <title>Converting Temperatures App V2.0</title>
       <meta charset="utf-8">
 </head>
 <body>
